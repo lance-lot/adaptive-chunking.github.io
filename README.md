@@ -1,4 +1,4 @@
-# Nerfies
+# AAC
 
 This is the repository that contains source code for the [AAC website](https://lance-lot/adaptive-chunking.github.io).
 
