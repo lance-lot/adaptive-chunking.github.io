@@ -1,6 +1,6 @@
 # Nerfies
 
-This is the repository that contains source code for the [AAC website](https://nerfies.github.io).
+This is the repository that contains source code for the [AAC website](https://lance-lot/adaptive-chunking.github.io).
 
 If you find AAC useful for your work please cite:
 ```
