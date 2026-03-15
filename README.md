@@ -1,6 +1,6 @@
 # AAC
 
-This is the repository that contains source code for the [AAC website](https://lance-lot.github.io/adaptive-chunking).
+This is the repository that contains source code for the [AAC website](https://lance-lot.github.io/adaptive-chunking.github.io/).
 
 If you find AAC useful for your work please cite:
 ```
