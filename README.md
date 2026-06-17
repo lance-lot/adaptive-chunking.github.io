@@ -2,13 +2,14 @@
 
 This is the repository that contains source code for the [AAC website](https://lance-lot.github.io/adaptive-chunking.github.io/).
 
-If you find AAC useful for your work please cite:
+If you find AAC useful for your work, please cite:
 ```
-@article{park2021nerfies
-  author    = {Yuanchang Liang, Xiaobo Wang, Kai Wang, Shuo Wang, Xiaojiang Peng, Haoyu Chen, David Kim Huat Chua, Prahlad Vadakkepat},
-  title     = {Adaptive Action Chunking at Inference-time for Vision-Language-Action Models},
-  journal   = {CVPR},
-  year      = {2026},
+@inproceedings{liang2026adaptive,
+  title={Adaptive action chunking at inference-time for vision-language-action models},
+  author={Liang, Yuanchang and Wang, Xiaobo and Wang, Kai and Wang, Shuo and Peng, Xiaojiang and Chen, Haoyu and Chua, David Kim Huat and Vadakkepat, Prahlad},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={20802--20811},
+  year={2026}
 }
 ```
 
